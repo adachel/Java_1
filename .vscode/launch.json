@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "Java_start_866c2483"
+        },
+        {
+            "type": "java",
+            "name": "seminar2",
+            "request": "launch",
+            "mainClass": "seminar2",
+            "projectName": "Java_start_866c2483"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_start_866c2483"
+        },
+        {
+            "type": "java",
+            "name": "sem3",
+            "request": "launch",
+            "mainClass": "sem3",
+            "projectName": "Java_start_866c2483"
+        },
+        {
+            "type": "java",
             "name": "HeapSort",
             "request": "launch",
             "mainClass": "HeapSort",
