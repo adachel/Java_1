@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinTree",
+            "request": "launch",
+            "mainClass": "AlgoAndData.homework.BinTree",
+            "projectName": "Java_start_866c2483"
+        },
+        {
+            "type": "java",
+            "name": "BinTree",
+            "request": "launch",
+            "mainClass": "AlgoAndData.Seminars.BinTree",
+            "projectName": "Java_start_866c2483"
+        },
+        {
+            "type": "java",
+            "name": "HashTable",
+            "request": "launch",
+            "mainClass": "AlgoAndData.Seminars.HashTable",
+            "projectName": "Java_start_866c2483"
+        },
+        {
+            "type": "java",
             "name": "LinkedList",
             "request": "launch",
             "mainClass": "LinkedList",

@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package AlgoAndData.homework;
+// import java.util.Arrays;
 
 public class homeWork {
     public static void heapSort(int[] arr, int n){
@@ -27,12 +28,12 @@ public class homeWork {
 
     public static void Creat(int[] arr, int n) {for(int i = 0; i < n; i++) arr[i] = (int)(Math.random()*100);}
     
-    public static void main(String[] args){
-        int n = 10;
-        int[] arr = new int[n];
-        Creat(arr, n);
-        System.out.println(Arrays.toString(arr));
-        heapSort(arr, n);
-        System.out.println(Arrays.toString(arr));
-    }   
+    // public static void main(String[] args){
+    //     int n = 10;
+    //     int[] arr = new int[n];
+    //     Creat(arr, n);
+    //     System.out.println(Arrays.toString(arr));
+    //     heapSort(arr, n);
+    //     System.out.println(Arrays.toString(arr));
+    // }   
 }
