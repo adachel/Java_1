@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Printer",
+            "request": "launch",
+            "mainClass": "HomeWork1.getSolution.Printer",
+            "projectName": "Seminars"
+        },
+        {
+            "type": "java",
+            "name": "Printer",
+            "request": "launch",
+            "mainClass": "GeekBrains.HomeWork.Printer",
+            "projectName": "Java_start_866c2483"
+        },
+        {
+            "type": "java",
+            "name": "practik",
+            "request": "launch",
+            "mainClass": "GeekBrains.Java.Lections.liction1.practik",
+            "projectName": "Java_start_866c2483"
+        },
+        {
+            "type": "java",
+            "name": "practik",
+            "request": "launch",
+            "mainClass": "GeekBrains.Java.Lections.practik",
+            "projectName": "Java_start_866c2483"
+        },
+        {
+            "type": "java",
+            "name": "HashTable",
+            "request": "launch",
+            "mainClass": "GeekBrains.AlgoAndData.Seminars.HashTable",
+            "projectName": "Java_start_866c2483"
+        },
+        {
+            "type": "java",
+            "name": "lection1",
+            "request": "launch",
+            "mainClass": "GeekBrains.Java.Lections.lection1",
+            "projectName": "Java_start_866c2483"
+        },
+        {
+            "type": "java",
             "name": "BinTree",
             "request": "launch",
             "mainClass": "AlgoAndData.homework.BinTree",
