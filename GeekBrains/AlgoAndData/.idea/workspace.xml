@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40eadbf5-e4c4-472f-a0d8-5811bb274f7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java_start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgoAndData/Seminars/HashTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgoAndData/Seminars/HashTable1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgoAndData/Seminars/Linked.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgoAndData/Seminars/seminar21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgoAndData/Seminars/seminar3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgoAndData/Seminars/seminar3T.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgoAndData/homework/BinTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgoAndData/homework/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgoAndData/homework/homeWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgoAndData/lections/lection3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/junit-4.13.2.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Syob9j5R7ET8mhqAr2Ur6D20ca" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Works/IT/Java_start/GeekBrains"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40eadbf5-e4c4-472f-a0d8-5811bb274f7a" name="Changes" comment="" />
+      <created>1690128250841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690128250841</updated>
+    </task>
+    <servers />
+  </component>
+</project>
