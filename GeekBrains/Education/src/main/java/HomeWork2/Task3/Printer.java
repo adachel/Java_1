@@ -23,16 +23,24 @@ import java.util.Arrays;
 class Answer {
     public static StringBuilder answer(String JSON, String ELEMENT1, String ELEMENT2, String ELEMENT3){
         StringBuilder res = new StringBuilder();
+        String family = ""; String less = ""; String score = ""; String text = "";
 
         String str = JSON.replace('{', ' ').replace('}', ' ').replace('[', ' ').replace(']', ' ');
         str = str.replaceAll("\\s+", "");
         str = str.replaceAll("\"", "");
+        String[] arr = str.split(",");
 
-        System.out.println(str);
-
-
-
-
+        for (int i = 0; i < arr.length; i += 3){
+            for (int j = i; j < i + 3; j++){
+                String[] mas = arr[j].split(":");
+                if (mas[0].equals("фамилия")) {family = mas[1];}
+                else if (mas[0].equals("оценка")) {score = mas[1];}
+                else if (mas[0].equals("предмет")) {less = mas[1];}
+                text = ELEMENT1 + family + ELEMENT2 + score + ELEMENT3 + less;
+            }
+            res.append(text + '\n');
+        }
+        System.out.println(res);
         return  res;
     }
 }
